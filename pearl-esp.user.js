@@ -6,8 +6,8 @@
 // @author       ElecOFC and Mate0007
 // @match        https://bloxflip.com/*
 // @icon         https://github.com/ElecOFC/Pearl-ESP/blob/main/pearllogo.png?raw=true
-// @downloadURL  https://github.com/ElecOFC/Pearl-ESP/raw/main/pearl-esp.js
-// @updateURL    https://github.com/ElecOFC/Pearl-ESP/raw/main/pearl-esp.js
+// @downloadURL  https://github.com/ElecOFC/Pearl-ESP/raw/main/pearl-esp.user.js
+// @updateURL    https://github.com/ElecOFC/Pearl-ESP/raw/main/pearl-esp.user.js
 // @grant        GM_xmlhttpRequest
 // @connect      api.github.com
 // ==/UserScript==
